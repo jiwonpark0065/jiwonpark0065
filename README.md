@@ -53,15 +53,6 @@ I am especially interested in **Computer Vision**, **Audio Processing**, and **M
 <br>
 <br>
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jiwonpark0065&include_all_commits=true&show_icons=true" alt="Anurag's GitHub stats" height="170"/></a>
-  <a href="https://solved.ac/mary000605/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mary000605" alt="Solved.ac Profile" height="170" /></a>
-</p>
-
-<br>
-
 <div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonpark0065&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <a href="https://solved.ac/mary000605/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mary000605" alt="Solved.ac Profile" height="170" /></a>
 </div>
